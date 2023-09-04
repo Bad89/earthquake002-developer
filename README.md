@@ -74,3 +74,8 @@ If you would like to contribute to QuakeEye, read the [contributing guidelines](
 ## Credit
 
 -- Project by [Ahmed I. Mokhtari](https://www.linkedin.com/in/ahmed-islem-mokhtari/).
+
+
+https://developers.google.com/earth-engine/guides/python_install-conda#mac
+
+https://linuxhint.com/fix-zsh-command-not-found-conda-mac/
